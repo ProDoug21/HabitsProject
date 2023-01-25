@@ -79,6 +79,7 @@ button {
   display: flex;
   align-items: center;
   gap: 12px;
+  
   /*Fonte das Letras*/
   font-family: "Inter";
   font-weight: 600;
